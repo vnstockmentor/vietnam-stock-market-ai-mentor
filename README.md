@@ -4,7 +4,7 @@
 
 Repository này là trung tâm lưu trữ tài liệu, các ví dụ về câu lệnh (prompt), và là nơi cộng đồng có thể đóng góp ý kiến để cải thiện VSM AI Mentor.
 
-- **🚀 Truy cập Cố vấn AI tại:** [Link tới Custom GPT của bạn]
+- **🚀 Truy cập Cố vấn AI tại:** [https://chatgpt.com/g/g-687c3c4f66948191987ba2cf55b354cc-vietnam-stock-market-vsm-ai-mentor]
 - **📖 Xem hướng dẫn chi tiết tại:** [https://vnstockaimentor.com](https://vnstockaimentor.com)
 - **💡 Đóng góp ý tưởng hoặc báo lỗi tại:** [Tab Issues]([link-tới-tab-issues-của-repo](https://github.com/vnstockmentor/vietnam-stock-market-ai-mentor/issues))
 
@@ -14,6 +14,6 @@ Repository này là trung tâm lưu trữ tài liệu, các ví dụ về câu l
 
 This repository serves as a central hub for documentation, prompt examples, and community feedback to improve the VSM AI Mentor.
 
-- **🚀 Access the AI Mentor:** [Link to your Custom GPT]
+- **🚀 Access the AI Mentor:** [https://chatgpt.com/g/g-687c3c4f66948191987ba2cf55b354cc-vietnam-stock-market-vsm-ai-mentor]
 - **📖 See the full guide at:** [https://vnstockaimentor.com](https://vnstockaimentor.com)
 - **💡 Contribute ideas or report bugs via:** [Issues Tab]([link-to-your-repo-issues-tab](https://github.com/vnstockmentor/vietnam-stock-market-ai-mentor/issues))
